@@ -1,2 +1,2 @@
 # mondaycheckmcuppercase
-Checks for Monday and prints the schedule in uppercase
+# Checks for Monday and prints the schedule in uppercase.
